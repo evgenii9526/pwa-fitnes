@@ -7,12 +7,12 @@
   "theme_color": "#222222",
   "icons": [
     {
-      "src": "icons/dumbbell-icon15.PNG",
+      "src": "icons/dumbbell-icon155.PNG",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icons/dumbbell-icon15.PNG",
+      "src": "icons/dumbbell-icon155.PNG",
       "sizes": "512x512",
       "type": "image/png"
     }
